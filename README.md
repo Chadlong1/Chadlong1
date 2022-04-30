@@ -1,4 +1,4 @@
-### Now I'm looking for a job
+### 구직중
 
 <!--
 **Chadlong1/Chadlong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
